@@ -1,1 +1,1 @@
-# OOP-practice-program
+# C language-program
